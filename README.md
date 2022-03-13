@@ -3,6 +3,8 @@
  - https://developers.google.com/machine-learning/crash-course/ml-intro
  - https://youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz
 
+**Colab file**
+https://colab.research.google.com/drive/1tQtHQtNcf2hsYRR969xavsoCjZMChXZR?usp=sharing
 
 
 ## Day 1
@@ -33,4 +35,6 @@ Features-input
 **Mean square error** (**MSE**)
     =sum of all the squared error/number of examples
     
-   
+***Model 1***
+Salary prediction
+
