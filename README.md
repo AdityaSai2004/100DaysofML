@@ -3,7 +3,9 @@
  - https://developers.google.com/machine-learning/crash-course/ml-intro
  - https://youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz
  - https://www.coursera.org/learn/ai-for-everyone/
+ 
 **Colab file**
+
 https://colab.research.google.com/drive/1tQtHQtNcf2hsYRR969xavsoCjZMChXZR?usp=sharing
 
 
