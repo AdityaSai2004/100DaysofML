@@ -49,8 +49,11 @@ Salary prediction
 
 ***Gradient descent***
 [notes](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent#expandable-1)
+
 Iterative training : Both time and computation steps matter
-Convex problems have only one minimum ( only one place where the slope is exactly 0) That minimum is where the loss function converges.
+
+Convex problems have only one minimum ( only one place where the slope is exactly 0).That minimum is where the loss function converges.
+
 Steps:
 
  1. Pick starting point for w(doesn't matter though, so usually 0 or a random point)
@@ -61,5 +64,6 @@ Steps:
  
  **Stochastic gradient descent (SGD)**
  Uses only 1 batch to estimate the gradient
+ 
  **Mini-batch stochastic gradient descent (Mini-batch SGD)**
 Uses between 10 and 1,000 examples
