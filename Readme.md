@@ -70,8 +70,15 @@ Uses between 10 and 1,000 examples
 
 ## My Day 3
 
-## Day5
+## Day 5
 
 **Multivariable linear regression**
 
     y=w1X1+w2X2+w3X3....+c
+
+## My Day 4
+
+## Day 6
+
+ - **Numpy** & **Pandas** revision 
+
